@@ -11,6 +11,15 @@
     display: none;
 }
 
+/* Seccion superior */
+.superior__seccion__container{
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    overflow: scroll;
+    gap: 15px;
+}
+
 /* Rodapie */
 .rodapie__container{
     display: flex;
